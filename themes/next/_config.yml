@@ -122,8 +122,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/IChrisKing
-  SinaBlog: http://blog.sina.com.cn/u/1733434252
+  GitHub: https://github.com/YoungDavidBowie
+  #SinaBlog: http://blog.sina.com.cn/u/1733434252
+  豆瓣: https://www.douban.com/people/75941536
 
 # Social Links Icons
 # Icon Mapping:
@@ -137,7 +138,8 @@ social_icons:
   GitHub: github
 #  Twitter: twitter
 #  Weibo: weibo
-  SinaBlog: weibo
+#  SinaBlog: weibo
+  豆瓣: douban
 
 
 # Sidebar Avatar
@@ -163,8 +165,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: left
-  position: right
+  position: left
+  #position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -183,8 +185,7 @@ links_layout: block
 #links_layout: inline
 links:
   #Title: http://example.com/
-  Anrom OS: https://anromos.github.io/
-  Team GitHub: https://github.com/AnromOS
+  #Team GitHub: https://github.com/AnromOS
 
 
 # ---------------------------------------------------------------
